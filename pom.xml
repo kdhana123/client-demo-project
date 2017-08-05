@@ -62,9 +62,9 @@
             <project.scm.id>git</project.scm.id>
          </properties>
 	  <scm>
-		<url>https://github.com/NagireddyGuduru/client-demo-project</url>
-		<connection>scm:git:https://github.com/NagireddyGuduru/client-demo-project.git</connection>
-		<developerConnection>scm:git:https://github.com/NagireddyGuduru/client-demo-project.git</developerConnection>
+		<url>https://github.com/Ram734-git/client-demo-project</url>
+		<connection>scm:git:https://github.com/Ram734-git/client-demo-project.git</connection>
+		<developerConnection>scm:git:https://github.com/Ram734-git/client-demo-project.git</developerConnection>
 	    <tag>HEAD</tag>
   </scm>
 	<profiles>
